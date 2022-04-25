@@ -2,48 +2,42 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
-profile: /profile.jpg
+name: Yuhao Zhang
+profile: /profile.jpeg
 
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
+    link: https://github.com/hazenoeasy
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
+    link: https://www.linkedin.com/in/yuhao-zhang-b94145214/
   - title: instagram
     icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: https://www.instagram.com/yuhao_zhang98/
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+cv: https://pdfhost.io/v/ZcfctygTB_Scismic_s_Recommended_CV_Template_for_Biotech_and_Pharma_Jobs
+bio: Student at New York University
+email: itszyh98@gmail.edu
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. 
+I was born in China. I earned a Bachelor's Degree in Wuhan University. Now I am pursuing Master's Degree in New York University
 
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
-
-
-## News
+<!-- ## News
 
 - [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
-
+- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain -->
 
 ## Education & Experiences
 
 - **Hogwarts School of Witchcraft and Wizardry** <br/>
 Sept 1991 - 1997
 
-
 ## Projects
-
 
 [→ Full list](/projects/)
 
@@ -69,13 +63,11 @@ Sept 1991 - 1997
 
 </ProjectCard>
 
-
 ## Awards & Honors
 
 ### Contests
 
 - First place in **The Hogwarts House Cup**
-
 
 <!-- Custom style for this page -->
 
@@ -97,7 +89,7 @@ Sept 1991 - 1997
   .theme-default-content:not(.custom) > h3
     padding-top 4rem
 
-  /* Override */
+  /*Override*/
   .md-card
     margin-top 0.5em
     .card-image
@@ -115,7 +107,7 @@ Sept 1991 - 1997
 
     .md-card
       .card-image
-        img 
+        img
           width 100%
           max-width 400px
 
