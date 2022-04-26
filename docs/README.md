@@ -25,7 +25,9 @@ email: itszyh98@gmail.edu
 
 ## About Me
 
-I was born in China. I earned a Bachelor's Degree in Wuhan University. Now I am pursuing Master's Degree in New York University
+I was born and raised in Beijing, China. I earned a Bachelor's Degree in Computer Science from Wuhan University. Now I am pursuing the Master's in Computer Science from New York University.  
+
+Actively seeking full time SDE job for 2023!
 
 <!-- ## News
 
@@ -34,40 +36,62 @@ I was born in China. I earned a Bachelor's Degree in Wuhan University. Now I am 
 
 ## Education & Experiences
 
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
+- **Huawei** <br/>
+
+<div style="display: flex; justify-content: space-between; padding:0 16.8px">
+<div>Operating System Engineer Intern</div>
+<div  style="display: flex; justify-content: space-around; width:156px">
+<div>Jun 2022</div><div>-</div><div>Sept 2022</div>
+</div>
+</div>
+
+- **New York University** <br/>
+  
+<div style="display: flex; justify-content: space-between; padding:0 16.8px">
+<div>Master in Computer Science</div>
+<div  style="display: flex; justify-content: space-around; width:156px">
+<div>Sept 2021</div><div>-</div><div>May 2023</div>
+</div>
+</div>
+
+- **Qi An Xin Technology Group** <br/>
+
+<div style="display: flex; justify-content: space-between; padding:0 16.8px">
+<div>Software Engineer Intern</div>
+<div  style="display: flex; justify-content: space-around; width:156px">
+<div>Oct 2020</div><div>-</div><div>Apr 2023</div>
+</div>
+</div>
+
+- **HAVPR Lab in Wuhan University** <br/>
+
+<div style="display: flex; justify-content: space-between; padding:0 16.8px">
+<div>Research Assistant in Computer Vision</div>
+<div  style="display: flex; justify-content: space-around; width:156px">
+<div>Feb 2019</div><div>-</div><div>Jun 2020</div>
+</div>
+</div>
+
+- **Wuhan University** <br/>
+
+<div style="display: flex; justify-content: space-between; padding:0 16.8px">
+<div>Bachelor in Computer Science</div>
+<div  style="display: flex; justify-content: space-around; width:156px">
+<div>Sept 2017</div><div>-</div> <div>Jun 2021</div>
+</div>
+</div>
 
 ## Projects
 
 [→ Full list](/projects/)
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
-
-  **The Making of Harry Potter's Wand**
-
-  Harry P., Hermione G., *et al*
-  
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
-
-</ProjectCard>
-
-<ProjectCard hideBorder=true>
-
-  **Harry Potter and the Deathly Hallows**
-  
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
-
-  [[Link](https://www.google.com)]
-
-</ProjectCard>
-
 ## Awards & Honors
 
-### Contests
+- NYU Merit Scholarship
 
-- First place in **The Hogwarts House Cup**
+<!-- ### Contests
+
+- First place in **The Hogwarts House Cup** -->
 
 <!-- Custom style for this page -->
 

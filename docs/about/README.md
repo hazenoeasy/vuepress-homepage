@@ -1,32 +1,34 @@
 ---
 pageClass: about-page
 description: 'The biography and information about me.'
-avatar: /profile.jpg
-head: 'Harry Potter'
-info: 'Student at Hogwarts School'
-interests: 'Interests: Quidditch and Wizard chess.'
+avatar: /profile.jpeg
+head: 'Yuhao Zhang'
+info: 'Student at New York University'
+interests: 'Interests: Distributed System, Software Engineering.'
 socials:
 - title: github
-  link: https://github.com/mtobeiyf
+  link: https://github.com/hazenoeasy
 - title: linkedin
-  link: https://www.linkedin.com
+  link: https://www.linkedin.com/in/yuhao-zhang-b94145214/
 - title: instagram
-  link: https://www.instagram.com
+  link: https://www.instagram.com/yuhao_zhang98/
 - title: email
-  link: 'mailto:harry[at]gmail.com'
+  link: 'mailto:itszyh98@gmail.com'
 actions:
 - text: Projects
   link: /projects/
-- text: Blog
-  link: https://github.com/mtobeiyf
+# - text: Blog
+#   link: https://github.com/mtobeiyf
 - text: CV
-  link: /article/
-footer: Made with ♥ by Fing. Powered by VuePress
+  link: https://pdfhost.io/v/ZcfctygTB_Scismic_s_Recommended_CV_Template_for_Biotech_and_Pharma_Jobs
+footer: Powered by VuePress
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+I was born and raised in Beijing, China. I earned a Bachelor's Degree in Computer Science from Wuhan University. Now I am pursuing the Master's in Computer Science from New York University.  
+
+Actively seeking full time SDE job for 2023! :dizzy:
 
 </AboutCard>
 

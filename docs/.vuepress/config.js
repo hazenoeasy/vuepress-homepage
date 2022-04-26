@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Harry Potter",
+  title: "Yuhao Zhang (Matt)",
   description: "The description of the site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",

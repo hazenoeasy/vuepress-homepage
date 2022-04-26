@@ -7,7 +7,7 @@ pageClass: projects-page
 Here are some works of mine :books:
 
 ## Projects
-
+<!-- 
 <ProjectCard image="/projects/1.png">
 
   Harry P., Hermione G., *et al*
@@ -30,7 +30,7 @@ Here are some works of mine :books:
 
   [[Link](https://www.google.com)]
 
-</ProjectCard>
+</ProjectCard> -->
 
 <style lang="stylus">
 
