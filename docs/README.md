@@ -39,7 +39,7 @@ Actively seeking full time SDE job for 2023!
 - **Huawei** <br/>
 
 <div style="display: flex; justify-content: space-between; padding:0 16.8px">
-<div>Operating System Engineer Intern</div>
+<div style="width:50%">Operating System Engineer Intern</div>
 <div  style="display: flex; justify-content: space-around; width:156px">
 <div>Jun 2022</div><div>-</div><div>Sept 2022</div>
 </div>
@@ -48,7 +48,7 @@ Actively seeking full time SDE job for 2023!
 - **New York University** <br/>
   
 <div style="display: flex; justify-content: space-between; padding:0 16.8px">
-<div>Master in Computer Science</div>
+<div style="width:50%">Master in Computer Science</div>
 <div  style="display: flex; justify-content: space-around; width:156px">
 <div>Sept 2021</div><div>-</div><div>May 2023</div>
 </div>
@@ -57,7 +57,7 @@ Actively seeking full time SDE job for 2023!
 - **Qi An Xin Technology Group** <br/>
 
 <div style="display: flex; justify-content: space-between; padding:0 16.8px">
-<div>Software Engineer Intern</div>
+<div style="width:50%">Software Engineer Intern</div>
 <div  style="display: flex; justify-content: space-around; width:156px">
 <div>Oct 2020</div><div>-</div><div>Apr 2023</div>
 </div>
@@ -66,7 +66,7 @@ Actively seeking full time SDE job for 2023!
 - **HAVPR Lab in Wuhan University** <br/>
 
 <div style="display: flex; justify-content: space-between; padding:0 16.8px">
-<div>Research Assistant in Computer Vision</div>
+<div style="width:50%">Research Assistant in Computer Vision</div>
 <div  style="display: flex; justify-content: space-around; width:156px">
 <div>Feb 2019</div><div>-</div><div>Jun 2020</div>
 </div>
@@ -75,7 +75,7 @@ Actively seeking full time SDE job for 2023!
 - **Wuhan University** <br/>
 
 <div style="display: flex; justify-content: space-between; padding:0 16.8px">
-<div>Bachelor in Computer Science</div>
+<div style="width:50%">Bachelor in Computer Science</div>
 <div  style="display: flex; justify-content: space-around; width:156px">
 <div>Sept 2017</div><div>-</div> <div>Jun 2021</div>
 </div>
