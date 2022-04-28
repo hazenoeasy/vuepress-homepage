@@ -95,6 +95,8 @@ Actively seeking full time SDE job for 2023!
 
 <!-- Custom style for this page -->
 
+
+<meta name="google-site-verification" content="XFPe0cTFa_UCUzfcNsFG4182e5tvhmSRP1nNLP2hfl0" />
 <style lang="stylus">
 
 .theme-container.home-page .page
