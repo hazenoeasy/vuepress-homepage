@@ -18,14 +18,10 @@ socials:
 
 cv: https://pdfhost.io/v/ZcfctygTB_Scismic_s_Recommended_CV_Template_for_Biotech_and_Pharma_Jobs
 bio: Student at New York University
-email: itszyh98@gmail.edu
+email: itszyh98@gmail.com
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
-
-<head>
-<meta name="google-site-verification" content="XFPe0cTFa_UCUzfcNsFG4182e5tvhmSRP1nNLP2hfl0" />
-</head>
 
 ## About Me
 
