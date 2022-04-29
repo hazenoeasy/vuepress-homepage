@@ -1,7 +1,9 @@
 module.exports = {
   title: "Yuhao Zhang (Matt)",
   description: "The description of the site.",
-  head: [["link", { rel: "icon", href: `/logo.png` }]],
+  head: [["link", { rel: "icon", href: `/logo.png` }],
+  ["meta",{name:"google-site-verification", content:"XFPe0cTFa_UCUzfcNsFG4182e5tvhmSRP1nNLP2hfl0" }]
+  ],
   base: "/",
   dest: "./dist",
 
